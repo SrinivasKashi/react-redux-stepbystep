@@ -1,0 +1,1 @@
+This shows redux injection into our existing react project
