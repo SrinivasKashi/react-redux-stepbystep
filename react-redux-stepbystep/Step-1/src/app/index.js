@@ -8,7 +8,7 @@ class App extends React.Component {
     constructor() {
         super();
         this.state = {
-            username: "Max"
+            username: "Harsha"
         };
     }
 
